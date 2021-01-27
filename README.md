@@ -5,4 +5,6 @@ The Pathfinding Project Code zip contains 3 python files, 5 text documents, an i
 
 The C Project zip contains a zipped CLion project, 2 screencasts, a readme and a report pdf. This is from my 2nd year C & C++ assignment where I made a program to analyse GPS data in text documents. The program won't work because the GPS data and configuration documents aren't included, however it can be seen running in the screencasts.
 
+The Java Sudoku Solver Code zip contains an IntelliJ IDEA project, my code is found at programmingAssignment\src\uk\ac\aber\cs21120\solution. The Java Sudoku Solver Documentation pdf is a short summary of the project. Both of these are part of my 2nd year algorithms and data structures assignment where I made a program to solve provided sudoku puzzles using interfaces. The program needs the JUnit testing framework to run.
+
 The Finlay McCormick 2018 AI EPQ pdf is my EPQ discussing the potential benefits and dangers of artificial intelligence in the future.
