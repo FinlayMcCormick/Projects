@@ -8,3 +8,5 @@ The C Project zip contains a zipped CLion project, 2 screencasts, a readme and a
 The Java Sudoku Solver Code zip contains an IntelliJ IDEA project, my code is found at programmingAssignment\src\uk\ac\aber\cs21120\solution. The Java Sudoku Solver Documentation pdf is a short summary of the project. Both of these are part of my 2nd year algorithms and data structures assignment where I made a program to solve provided sudoku puzzles using interfaces. The program needs the JUnit testing framework to run.
 
 The Finlay McCormick 2018 AI EPQ pdf is my EPQ discussing the potential benefits and dangers of artificial intelligence in the future.
+
+The Arduino C Game Project zip contains a report, a testing document and an INO file containing the code. This is from my 1st year introduction to programming module where I made a game using a custom Arduino shield and a library. The game has you dodge obstacles on a 10x10 LED screen which get faster as the game goes on or you are hit, until you lose.
