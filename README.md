@@ -10,3 +10,5 @@ The Java Sudoku Solver Code zip contains an IntelliJ IDEA project, my code is fo
 The Finlay McCormick 2018 AI EPQ pdf is my EPQ discussing the potential benefits and dangers of artificial intelligence in the future.
 
 The Arduino C Game Project zip contains a report, a testing document and an INO file containing the code. This is from my 1st year introduction to programming module where I made a game using a custom Arduino shield and a library. The game has you dodge obstacles on a 10x10 LED screen which get faster as the game goes on or you are hit, until you lose.
+
+The CodeweaversFinlayMcCormickSolution zip contains code for a programming task assigned by the company Codeweavers for my job application with them, it is in C# using the .NET framework.
